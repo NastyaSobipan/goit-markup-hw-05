@@ -722,7 +722,7 @@ color: #8e8f99;
   margin: 0 auto;
 border-radius: 4px;
 padding: 16px 32px;
-min-width: 169px
+min-width: 169px;
 height: 56px;
 font-family: "Roboto", sans-serif;
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
@@ -791,7 +791,7 @@ justify-content: center;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5;
+  letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
   background-color: #4D5AE5;
